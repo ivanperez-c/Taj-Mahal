@@ -1,7 +1,7 @@
 # Taj-Mahal
 Modelado de escenario y personaje para la asignatura Diseño Digital 3D
 
-**Imáganes renders del escenario**
+**Imágenes renders del escenario**
 
 <img src="https://github.com/ivanperez-c/Taj-Mahal/blob/main/Im%C3%A1genes%20renders%20escenario/render%20camara%2001.png" alt="JuveR" width="600px">
 
