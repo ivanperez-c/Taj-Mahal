@@ -1,7 +1,7 @@
 # Taj-Mahal
 Modelado de escenario y personaje para la asignatura Diseño Digital 3D
 
-_Imáganes renders del escenario_
+**Imáganes renders del escenario**
 
 <img src="https://github.com/ivanperez-c/Taj-Mahal/blob/main/Im%C3%A1genes%20renders%20escenario/render%20camara%2001.png" alt="JuveR" width="600px">
 
@@ -26,5 +26,19 @@ _Imáganes renders del escenario_
 <img src="https://github.com/ivanperez-c/Taj-Mahal/blob/main/Im%C3%A1genes%20renders%20escenario/render-camara-11.jpg" alt="JuveR" width="600px">
 
 
+**Imágenes renders del personaje**
 
-_Imágenes renders del personaje_
+<img src="https://github.com/ivanperez-c/Taj-Mahal/blob/main/Im%C3%A1genes%20renders%20personaje/render%20persoanje%201.png" alt="JuveR" width="600px">
+
+<img src="https://github.com/ivanperez-c/Taj-Mahal/blob/main/Im%C3%A1genes%20renders%20personaje/render%20personaje%202.png" alt="JuveR" width="600px">
+
+<img src="https://github.com/ivanperez-c/Taj-Mahal/blob/main/Im%C3%A1genes%20renders%20personaje/render%20personaje%203.png" alt="JuveR" width="600px">
+
+<img src="https://github.com/ivanperez-c/Taj-Mahal/blob/main/Im%C3%A1genes%20renders%20personaje/render%20personaje%204.png" alt="JuveR" width="600px">
+
+<img src="https://github.com/ivanperez-c/Taj-Mahal/blob/main/Im%C3%A1genes%20renders%20personaje/render%20personaje%205.png" alt="JuveR" width="600px">
+
+
+**Enlace de descarga del proyecto en 3DS Max**
+
+https://mega.nz/file/CEBlAYba#Er9etEfJxgF8e6kk3ctLIHdb0Vxavvupyf3JR2cPu7M
