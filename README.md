@@ -1,2 +1,6 @@
 # Taj-Mahal
-Taj Mahal modelado en 3D usando Google Sketchup y 3ds Max para la asignatura diseño digital 3D
+Modelado de escenario y personaje para la asignatura Diseño Digital 3D
+
+_Imáganes renders del escenario_
+
+_Imágenes renders del personaje_
